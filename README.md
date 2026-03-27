@@ -303,48 +303,6 @@
 
 <div align="center">
 
-## 📸 ` SCREENSHOTS `
-
-<br/>
-
-### 🏠 Hero Section — *First Impressions Matter*
-
-<img src="https://via.placeholder.com/850x450/0d1117/e94560?text=🔥+Hero+Section+—+Neon+Gradient+Experience" alt="Hero Section" width="85%" />
-
-<br/><br/>
-
-### 👟 Product Showcase — *Every Detail, Perfected*
-
-<table>
-<tr>
-<td><img src="https://via.placeholder.com/400x250/1a1a2e/e94560?text=👟+Air+Max+AI+Pro" alt="Product 1" width="100%" /></td>
-<td><img src="https://via.placeholder.com/400x250/1a1a2e/7b2ff7?text=👟+React+Infinity+X" alt="Product 2" width="100%" /></td>
-</tr>
-<tr>
-<td><img src="https://via.placeholder.com/400x250/1a1a2e/00d4ff?text=👟+ZoomX+Neural" alt="Product 3" width="100%" /></td>
-<td><img src="https://via.placeholder.com/400x250/1a1a2e/ffd700?text=👟+Phantom+GT+Elite" alt="Product 4" width="100%" /></td>
-</tr>
-</table>
-
-<br/>
-
-### 🌀 3D Interactive Viewer — *Touch. Rotate. Experience.*
-
-<img src="https://via.placeholder.com/850x400/0d1117/00d4ff?text=🌀+360°+3D+Sneaker+Viewer+—+WebGL+Powered" alt="3D Viewer" width="85%" />
-
-<br/><br/>
-
-### ✨ Animation Preview — *Buttery Smooth Transitions*
-
-<img src="https://via.placeholder.com/850x400/0d1117/7b2ff7?text=✨+GSAP+Scroll+Animations+—+60fps+Silky+Smooth" alt="Animations" width="85%" />
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 🚀 ` INSTALLATION & SETUP `
 
